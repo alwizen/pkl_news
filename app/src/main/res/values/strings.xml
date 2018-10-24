@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Pekalongan News</string>
+    <string name="tab_text_1">Terkini</string>
+    <string name="tab_text_2">Utama</string>
+    <string name="tab_text_3">Kota</string>
+    <string name="teb_text_4">Vidio</string>
+    <string name="action_settings">Pengaturan</string>
+    <string name="section_format">ISI KONTEN: %1$d</string>
+</resources>
